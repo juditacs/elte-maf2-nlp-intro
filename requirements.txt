@@ -1,0 +1,10 @@
+ipython
+jupyter
+matplotlib
+numpy
+pandas
+seaborn
+spacy
+torch
+transformers
+textacy
